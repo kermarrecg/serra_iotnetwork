@@ -37,7 +37,7 @@ are not publicly redistributable.**
   GmbH under contract with the City of Mannheim.
 
 Researchers interested in obtaining access for replication can contact
-the corresponding author (gael.kermarrec@geo-net.de) to discuss data
+the corresponding author to discuss data
 sharing arrangements with the data owners.
 
 The scripts can be inspected and adapted to any analogous dataset
